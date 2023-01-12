@@ -1,0 +1,79 @@
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <fragment
+
+        android:id="@+id/map"
+        android:name="com.google.android.gms.maps.SupportMapFragment"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent" />
+
+    <ImageView
+        android:id="@+id/drawerButton"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:paddingLeft="20sp"
+        android:paddingTop="15sp"
+        android:paddingRight="20sp"
+        android:paddingBottom="10sp"
+        android:src="@drawable/ic_menu"
+        android:tint="@color/black"
+        tools:ignore="UseAppTint" />
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:layout_gravity="bottom"
+        android:layout_marginLeft="0dp"
+        android:layout_marginBottom="0dp">
+
+
+        <Button
+            android:id="@+id/request_emptier"
+            android:layout_width="150dp"
+            android:layout_height="wrap_content"
+            android:backgroundTint="@color/white"
+            android:text="Request Emptier" />
+
+        <Button
+            android:id="@+id/request_plumber"
+            android:layout_width="150dp"
+            android:layout_height="wrap_content"
+            android:backgroundTint="@color/white"
+            android:text="Request Plumberer" />
+    </LinearLayout>
+
+
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="bottom|right"
+        android:layout_marginEnd="0dp"
+        android:layout_marginBottom="0dp"
+        android:baselineAligned="false"
+        android:orientation="vertical">
+
+
+        <Button
+            android:id="@+id/service_costs"
+            android:layout_width="150dp"
+            android:layout_height="wrap_content"
+            android:backgroundTint="@color/white"
+            android:includeFontPadding="false"
+            android:text="Service costs"
+            android:textColorHint="#00B0FF" />
+
+        <Button
+            android:id="@+id/plumbing_materials"
+            android:layout_width="150dp"
+            android:layout_height="wrap_content"
+            android:backgroundTint="@color/white"
+            android:text="plumbing materials" />
+    </LinearLayout>
+
+
+</FrameLayout>
+

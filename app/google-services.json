@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "861131263787",
+    "project_id": "kaka-waste",
+    "storage_bucket": "kaka-waste.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:861131263787:android:4eac5847f9125c3f28bf6e",
+        "android_client_info": {
+          "package_name": "com.kakasewerageservices.kakawaste"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "861131263787-61j90a1pjhqio4tj4q4jujbjcoq363op.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyALgahVvPPbsAtAblTJrldZQUFdRCBt3Yc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "861131263787-61j90a1pjhqio4tj4q4jujbjcoq363op.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

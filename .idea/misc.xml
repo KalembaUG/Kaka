@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Android_backup_projects/real_final/app/src/main/res/layout/activity_authentication.xml" value="0.17083333333333334" />
+        <entry key="..\:/Android_backup_projects/real_final/app/src/main/res/layout/activity_costumer_content.xml" value="0.18" />
+        <entry key="..\:/Android_backup_projects/real_final/app/src/main/res/layout/activity_customer_settings.xml" value="0.17083333333333334" />
+        <entry key="..\:/Android_backup_projects/real_final/app/src/main/res/layout/activity_details.xml" value="0.17083333333333334" />
+        <entry key="..\:/Android_backup_projects/real_final/app/src/main/res/layout/activity_driver_choose_type.xml" value="0.17083333333333334" />
+        <entry key="..\:/Android_backup_projects/real_final/app/src/main/res/layout/activity_driver_content.xml" value="0.15104166666666666" />
+        <entry key="..\:/Android_backup_projects/real_final/app/src/main/res/layout/activity_driver_settings.xml" value="0.1" />
+        <entry key="..\:/Android_backup_projects/real_final/app/src/main/res/layout/activity_map_customer.xml" value="0.17083333333333334" />
+        <entry key="..\:/Android_backup_projects/real_final/app/src/main/res/layout/activity_map_driver.xml" value="0.1" />
+        <entry key="..\:/Android_backup_projects/real_final/app/src/main/res/layout/dialog_card.xml" value="0.17083333333333334" />
+        <entry key="..\:/Android_backup_projects/real_final/app/src/main/res/layout/dialog_ride_review.xml" value="0.17083333333333334" />
+        <entry key="..\:/Android_backup_projects/real_final/app/src/main/res/layout/fragment_login.xml" value="0.17083333333333334" />
+        <entry key="..\:/Android_backup_projects/real_final/app/src/main/res/layout/fragment_menu.xml" value="0.17083333333333334" />
+        <entry key="..\:/Android_backup_projects/real_final/app/src/main/res/layout/fragment_registration.xml" value="0.17083333333333334" />
+        <entry key="..\:/Android_backup_projects/real_final/app/src/main/res/layout/item__card_request.xml" value="0.17083333333333334" />
+        <entry key="..\:/Android_backup_projects/real_final/app/src/main/res/layout/item_card.xml" value="0.17083333333333334" />
+        <entry key="..\:/Android_backup_projects/real_final/app/src/main/res/layout/item_history.xml" value="0.17083333333333334" />
+        <entry key="..\:/Android_backup_projects/real_final/app/src/main/res/layout/item_marker.xml" value="0.17083333333333334" />
+        <entry key="..\:/Android_backup_projects/real_final/app/src/main/res/layout/item_payout.xml" value="0.17083333333333334" />
+        <entry key="..\:/Android_backup_projects/real_final/app/src/main/res/layout/item_type.xml" value="0.17083333333333334" />
+        <entry key="..\:/Android_backup_projects/real_final/app/src/main/res/layout/nav_header_main.xml" value="0.17083333333333334" />
+        <entry key="..\:/real_final/app/src/main/res/layout/activity_add_payment.xml" value="0.14635416666666667" />
+        <entry key="..\:/real_final/app/src/main/res/layout/activity_authentication.xml" value="0.14635416666666667" />
+        <entry key="..\:/real_final/app/src/main/res/layout/activity_costumer_content.xml" value="0.14635416666666667" />
+        <entry key="..\:/real_final/app/src/main/res/layout/activity_customer_settings.xml" value="0.14635416666666667" />
+        <entry key="..\:/real_final/app/src/main/res/layout/activity_details.xml" value="0.14635416666666667" />
+        <entry key="..\:/real_final/app/src/main/res/layout/activity_driver_choose_type.xml" value="0.14635416666666667" />
+        <entry key="..\:/real_final/app/src/main/res/layout/activity_driver_content.xml" value="0.10572916666666667" />
+        <entry key="..\:/real_final/app/src/main/res/layout/activity_driver_login.xml" value="0.14427083333333332" />
+        <entry key="..\:/real_final/app/src/main/res/layout/activity_driver_settings.xml" value="0.14635416666666667" />
+        <entry key="..\:/real_final/app/src/main/res/layout/activity_history.xml" value="0.14635416666666667" />
+        <entry key="..\:/real_final/app/src/main/res/layout/activity_history_single.xml" value="0.14635416666666667" />
+        <entry key="..\:/real_final/app/src/main/res/layout/activity_main.xml" value="0.1" />
+        <entry key="..\:/real_final/app/src/main/res/layout/activity_map_customer.xml" value="0.1" />
+        <entry key="..\:/real_final/app/src/main/res/layout/activity_map_driver.xml" value="0.14635416666666667" />
+        <entry key="..\:/real_final/app/src/main/res/layout/activity_payment.xml" value="0.14635416666666667" />
+        <entry key="..\:/real_final/app/src/main/res/layout/activity_payout.xml" value="0.14635416666666667" />
+        <entry key="..\:/real_final/app/src/main/res/layout/add_payment_content.xml" value="0.14635416666666667" />
+        <entry key="..\:/real_final/app/src/main/res/layout/dialog_card.xml" value="0.14635416666666667" />
+        <entry key="..\:/real_final/app/src/main/res/layout/dialog_ride_review.xml" value="0.14635416666666667" />
+        <entry key="..\:/real_final/app/src/main/res/layout/fragment_login.xml" value="0.14635416666666667" />
+        <entry key="..\:/real_final/app/src/main/res/layout/fragment_menu.xml" value="0.14635416666666667" />
+        <entry key="..\:/real_final/app/src/main/res/layout/fragment_registration.xml" value="0.14635416666666667" />
+        <entry key="..\:/real_final/app/src/main/res/layout/item__card_request.xml" value="0.14635416666666667" />
+        <entry key="..\:/real_final/app/src/main/res/layout/item_card.xml" value="0.14635416666666667" />
+        <entry key="..\:/real_final/app/src/main/res/layout/item_history.xml" value="0.14635416666666667" />
+        <entry key="..\:/real_final/app/src/main/res/layout/item_marker.xml" value="0.14635416666666667" />
+        <entry key="..\:/real_final/app/src/main/res/layout/item_payout.xml" value="0.14635416666666667" />
+        <entry key="..\:/real_final/app/src/main/res/layout/nav_header_main.xml" value="0.14635416666666667" />
+        <entry key="..\:/real_final/app/src/main/res/menu/customer_main.xml" value="0.14635416666666667" />
+        <entry key="..\:/real_final/app/src/main/res/menu/driver_main.xml" value="0.14635416666666667" />
+        <entry key="..\:/real_final/app/src/main/res/menu/main.xml" value="0.14635416666666667" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
